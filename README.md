@@ -27,7 +27,8 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building mea
 ## 📫 Let's Connect
 - 🌐 **Portfolio:** _Coming soon_
 - 📧 **Email:** vishalpatna2002@gmail.com
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/vishal-kumar-v6](#)
+- [LinkedIn](https://www.linkedin.com/in/vishal-kumar-v6)
+
 
 ---
 
