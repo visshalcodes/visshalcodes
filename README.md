@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building mea
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** C, C++, JavaScript, PHP, Python (basic)
+- **Languages:** C, C++, JavaScript, PHP (basic)
 - **Frontend:** HTML, CSS, Bootstrap, React (learning)
 - **Backend:** PHP, MySQL
 - **Tools & Platforms:** VS Code, Git & GitHub, XAMPP/WAMP, Figma
