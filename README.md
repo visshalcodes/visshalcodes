@@ -13,13 +13,13 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys building mea
 ---
 
 ## 📌 Projects I'm Proud Of
-- 🔐 **E-Commerce Website**  
+- 🛒 **E-Commerce Website**  
   A clean, responsive E-Commerce Website using HTML, CSS, and JavaScript.
 
-- 🧮 **Number Guessing Game**  
+-  🎮 **Number Guessing Game**  
   A beginner-friendly number guessing game built using Java.
 
-- 🎲 **Vishal Store Sales Analysis**  
+-  📊 **Vishal Store Sales Analysis**  
   Analyze and visualize Vishal Store's 2024 sales data to identify top customers, platforms, and sales trends.
 
 ---
